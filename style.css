@@ -193,6 +193,8 @@
 
                                     .about-img1 {
                                       float: left;
+                                      width: 80%;
+                                      border-radius: 0.5rem;
                                   }
                                   
                                   .about-text1 {
