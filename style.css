@@ -192,11 +192,11 @@
                                     }
 
                                     .about-img1 {
-                                      float: right;
+                                      float: left;
                                   }
                                   
                                   .about-text1 {
-                                      float: left;
+                                      float: right;
                                       text-align: center;
                                       width: 50%; /* adjust as needed */
                                   }
