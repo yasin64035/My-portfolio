@@ -190,6 +190,13 @@
                                       width: 80%;
                                       border-radius: 0.5rem;
                                     }
+
+                                    .about-img1 {
+                                      float: right;
+                                      width: 80%;
+                                      border-radius: 0.5rem;
+                                  }
+                                  
                                    
                                     .about-text p {
                                       font-size: var(--p-font);
