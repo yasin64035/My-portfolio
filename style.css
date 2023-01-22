@@ -193,9 +193,14 @@
 
                                     .about-img1 {
                                       float: right;
-                                      width: 80%;
-                                      border-radius: 0.5rem;
                                   }
+                                  
+                                  .about-text1 {
+                                      float: left;
+                                      text-align: center;
+                                      width: 50%; /* adjust as needed */
+                                  }
+                                  
                                   
                                    
                                     .about-text p {
